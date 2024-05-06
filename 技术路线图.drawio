@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T13:46:00.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="UB8EE99Y-fsevAHLVl_S" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T13:58:51.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZXTTgSAGZOcwqV3CfrZ8" version="24.3.1" type="github">
   <diagram name="第 1 页" id="gCL9LYoBCofnW5G6t3wk">
-    <mxGraphModel>
+    <mxGraphModel dx="2140" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;无线自组网农机终端监控系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="20" width="800" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;需求分析与设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="90" width="46" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;系统实现与测试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="450" width="46" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="734" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="734" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-10" value="" style="endArrow=none;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="420" as="sourcePoint" />
+            <mxPoint x="830" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;需求分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;系统设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;系统实现关键技术&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=default;dashed=1;strokeWidth=2;" edge="1" parent="1" source="GHaBFUJMOyzzkqtnGVSr-14" target="GHaBFUJMOyzzkqtnGVSr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;系统测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="660" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;功能测试、性能测试、兼容性测试&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="660" width="395" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GHaBFUJMOyzzkqtnGVSr-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;功能性：系统安全等 非功能性：兼容性等&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="100" width="395" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
