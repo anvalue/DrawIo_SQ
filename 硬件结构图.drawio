@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T12:33:34.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="z6UJJyjUbLrqWLaeb9u8" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T13:10:12.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="XZCaMVLF5PpF51sMpPYa" version="24.2.1" type="github">
   <diagram name="第 1 页" id="iA5qATUPCENagUnjX_-0">
-    <mxGraphModel dx="1440" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,13 +118,18 @@
         <mxCell id="2T69lTBmzo6Eun2dO9DT-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;startArrow=block;startFill=1;" parent="1" source="2T69lTBmzo6Eun2dO9DT-103" target="2T69lTBmzo6Eun2dO9DT-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2T69lTBmzo6Eun2dO9DT-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="oM4G0QPA8Cqsqwl_XdxJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="2T69lTBmzo6Eun2dO9DT-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2T69lTBmzo6Eun2dO9DT-103" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="760" y="326.25" width="160" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="2T69lTBmzo6Eun2dO9DT-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;startArrow=block;startFill=1;" parent="1" source="2T69lTBmzo6Eun2dO9DT-104" target="2T69lTBmzo6Eun2dO9DT-103" edge="1">
+        <mxCell id="oM4G0QPA8Cqsqwl_XdxJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="2T69lTBmzo6Eun2dO9DT-104" target="oM4G0QPA8Cqsqwl_XdxJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2T69lTBmzo6Eun2dO9DT-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="2T69lTBmzo6Eun2dO9DT-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="760" y="510" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2T69lTBmzo6Eun2dO9DT-110" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;车间通信&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -153,7 +158,7 @@
         <mxCell id="2T69lTBmzo6Eun2dO9DT-138" value="转速传感器" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2T69lTBmzo6Eun2dO9DT-139" value="转速" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2T69lTBmzo6Eun2dO9DT-139" value="发动机转速" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2T69lTBmzo6Eun2dO9DT-140" value="割台高度" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -179,6 +184,9 @@
         </mxCell>
         <mxCell id="2T69lTBmzo6Eun2dO9DT-159" value="远程通信" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="475" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oM4G0QPA8Cqsqwl_XdxJ-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;···&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="450" width="60" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
