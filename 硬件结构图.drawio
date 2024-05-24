@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T02:58:38.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CSzq7QtB4BdfPupolAen" version="24.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-24T03:01:32.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Pgmu9tNUNtWoMp0ANvk5" version="24.4.2" type="github" pages="3">
   <diagram name="1.0" id="iA5qATUPCENagUnjX_-0">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCaOr864FneKbink3YXS" name="2.0">
-    <mxGraphModel dx="989" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,8 +358,8 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 12px;&quot;&gt;电源&lt;/font&gt;&lt;/div&gt;" tags="Background" id="Fg5teUP462lKASu4N4Ja-11">
-          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=18;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=黑体;" parent="1" vertex="1">
-            <mxGeometry x="70" y="250" width="500" height="40" as="geometry" />
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=18;fillColor=none;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=黑体;" parent="1" vertex="1">
+            <mxGeometry x="70" y="260" width="500" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Fg5teUP462lKASu4N4Ja-14" style="fontFamily=黑体;" parent="1" vertex="1">
@@ -379,39 +379,13 @@
             <mxGeometry x="360" y="320" width="50" height="130" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Background" id="Fg5teUP462lKASu4N4Ja-25">
-          <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint y="116" as="offset" />
-              <Array as="points">
-                <mxPoint x="190" y="290" />
-              </Array>
-              <mxPoint x="190.06" y="320" as="sourcePoint" />
-              <mxPoint x="190.06" y="290" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="Fg5teUP462lKASu4N4Ja-28">
-          <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint y="116" as="offset" />
-              <Array as="points">
-                <mxPoint x="464.71" y="290" />
-              </Array>
-              <mxPoint x="464.7699999999999" y="320" as="sourcePoint" />
-              <mxPoint x="464.7699999999999" y="290" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="Fg5teUP462lKASu4N4Ja-34">
           <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" parent="1" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="116" as="offset" />
-              <Array as="points">
-                <mxPoint x="384.71000000000004" y="290" />
-              </Array>
-              <mxPoint x="384.77" y="320" as="sourcePoint" />
-              <mxPoint x="384.77" y="290" as="targetPoint" />
+              <Array as="points" />
+              <mxPoint x="384.95" y="320" as="sourcePoint" />
+              <mxPoint x="384.95" y="300" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -435,15 +409,33 @@
         <mxCell id="Fg5teUP462lKASu4N4Ja-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;startArrow=block;startFill=1;" parent="1" source="Fg5teUP462lKASu4N4Ja-48" target="Fg5teUP462lKASu4N4Ja-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="IyCwVV8diJCykjhQAUhr-1">
+        <UserObject label="" tags="Background" id="IyCwVV8diJCykjhQAUhr-3">
           <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" edge="1" parent="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="116" as="offset" />
-              <Array as="points">
-                <mxPoint x="544.8299999999999" y="290" />
-              </Array>
-              <mxPoint x="544.8899999999999" y="320" as="sourcePoint" />
-              <mxPoint x="544.8899999999999" y="290" as="targetPoint" />
+              <Array as="points" />
+              <mxPoint x="464.86" y="320" as="sourcePoint" />
+              <mxPoint x="464.86" y="300" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Background" id="IyCwVV8diJCykjhQAUhr-4">
+          <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="116" as="offset" />
+              <Array as="points" />
+              <mxPoint x="544.86" y="320" as="sourcePoint" />
+              <mxPoint x="544.86" y="300" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Background" id="IyCwVV8diJCykjhQAUhr-5">
+          <mxCell style="vsdxID=24;edgeStyle=none;startArrow=block;endArrow=none;startSize=5;endSize=5;strokeWidth=1;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontFamily=黑体;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="116" as="offset" />
+              <Array as="points" />
+              <mxPoint x="200" y="320" as="sourcePoint" />
+              <mxPoint x="200" y="300" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
