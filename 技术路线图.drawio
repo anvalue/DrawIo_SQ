@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T06:08:34.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="3dFR3g8xLFQrtVXyN8Gy" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-28T06:08:57.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="CaDCoV98knQ41UnZN0RA" version="24.4.0" type="github" pages="3">
   <diagram id="QdQ94-CMsVARNrZDZEpG" name="3.0">
     <mxGraphModel dx="1323" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,18 @@
             <mxGeometry x="1664" y="310" width="202" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="w_csYOOCQIg4KJdJ9XgG-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="w_csYOOCQIg4KJdJ9XgG-66" target="w_csYOOCQIg4KJdJ9XgG-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_csYOOCQIg4KJdJ9XgG-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="w_csYOOCQIg4KJdJ9XgG-66" target="w_csYOOCQIg4KJdJ9XgG-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_csYOOCQIg4KJdJ9XgG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="w_csYOOCQIg4KJdJ9XgG-66" target="w_csYOOCQIg4KJdJ9XgG-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_csYOOCQIg4KJdJ9XgG-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="w_csYOOCQIg4KJdJ9XgG-66" target="w_csYOOCQIg4KJdJ9XgG-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="协同作业组网通信方法" tags="Background" id="w_csYOOCQIg4KJdJ9XgG-66">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=4;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=黑体;fontSize=16;" vertex="1" parent="1">
             <mxGeometry x="1940" y="310" width="200" height="40" as="geometry" />
