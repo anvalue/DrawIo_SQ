@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T09:44:27.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="e87Dk_xaQ9rCtqfy209w" version="24.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-11T09:44:42.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9K2jfno2j3bN--XMtrBP" version="24.5.2" type="github" pages="2">
   <diagram name="系统技术路线图" id="系统技术路线图">
     <mxGraphModel style="default-style2">
       <root>
@@ -1688,7 +1688,7 @@
             <mxGeometry x="376" y="188" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5OwPwcj5vDIKw_s5U_Ki-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;采集传感器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="5OwPwcj5vDIKw_s5U_Ki-56" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 12px;&quot;&gt;采集传感器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="198" y="246" width="80" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 11.64px; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;姿态传感器&lt;/font&gt;&lt;/div&gt;" tags="Background" id="5OwPwcj5vDIKw_s5U_Ki-57">
