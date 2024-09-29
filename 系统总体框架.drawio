@@ -268,7 +268,7 @@
         <mxCell id="gd8ltcAckLXCvGkbboQW-29" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 12px;&quot;&gt;通信模块&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=width;vsdxID=16;fillColor=none;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=none;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=黑体;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
           <mxGeometry x="220" y="325" width="70" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="智核（主控）" tags="Background" id="gd8ltcAckLXCvGkbboQW-30">
+        <UserObject label="智盒（主控）" tags="Background" id="gd8ltcAckLXCvGkbboQW-30">
           <mxCell style="vsdxID=10;fillColor=#d5e8d4;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#82b366;strokeWidth=1;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=黑体;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;align=center;fontSize=13;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
             <mxGeometry x="580" y="180" width="50" height="180" as="geometry" />
           </mxCell>
