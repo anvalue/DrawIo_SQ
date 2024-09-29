@@ -169,14 +169,14 @@
         <mxCell id="gd8ltcAckLXCvGkbboQW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=11;labelBackgroundColor=default;fillColor=#008a00;dashed=1;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
           <mxGeometry x="200" y="80" width="520" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="eT5_Zi5o0uebdzv5hh43-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gd8ltcAckLXCvGkbboQW-1" source="gd8ltcAckLXCvGkbboQW-4" target="gd8ltcAckLXCvGkbboQW-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gd8ltcAckLXCvGkbboQW-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=11;fontColor=#ffffff;labelBackgroundColor=none;strokeColor=#005700;align=center;verticalAlign=middle;fillColor=#008a00;dashed=1;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
           <mxGeometry x="827" y="310" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gd8ltcAckLXCvGkbboQW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="gd8ltcAckLXCvGkbboQW-1" source="gd8ltcAckLXCvGkbboQW-6" target="gd8ltcAckLXCvGkbboQW-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gd8ltcAckLXCvGkbboQW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;shape=flexArrow;endSize=3;startSize=3;targetPerimeterSpacing=1;sourcePerimeterSpacing=1;strokeWidth=0.5;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="gd8ltcAckLXCvGkbboQW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594.74" y="420" as="sourcePoint" />
+            <mxPoint x="594.74" y="381" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gd8ltcAckLXCvGkbboQW-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;远程服务器端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=11;fontColor=#ffffff;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
           <mxGeometry x="190" y="420" width="810" height="60" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry x="728" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gd8ltcAckLXCvGkbboQW-8" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;4G通信&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;fontFamily=黑体;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
-          <mxGeometry x="570" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gd8ltcAckLXCvGkbboQW-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;农机2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=11;fontColor=#ffffff;labelBackgroundColor=none;strokeColor=#005700;align=center;verticalAlign=middle;fillColor=#008a00;dashed=1;" vertex="1" parent="gd8ltcAckLXCvGkbboQW-1">
           <mxGeometry x="827" y="80" width="160" height="60" as="geometry" />
