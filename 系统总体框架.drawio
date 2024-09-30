@@ -163,7 +163,7 @@
       <root>
         <mxCell id="gd8ltcAckLXCvGkbboQW-0" />
         <mxCell id="gd8ltcAckLXCvGkbboQW-1" parent="gd8ltcAckLXCvGkbboQW-0" />
-        <mxCell id="gd8ltcAckLXCvGkbboQW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#006600;strokeWidth=2;align=center;verticalAlign=top;fontFamily=黑体;fontSize=11;fontColor=default;labelBackgroundColor=#ffffff;fillColor=none;labelBorderColor=#006600;" parent="gd8ltcAckLXCvGkbboQW-1" vertex="1">
+        <mxCell id="gd8ltcAckLXCvGkbboQW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#6C8EBF;strokeWidth=2;align=center;verticalAlign=top;fontFamily=黑体;fontSize=11;fontColor=default;labelBackgroundColor=#ffffff;fillColor=none;labelBorderColor=#006600;" parent="gd8ltcAckLXCvGkbboQW-1" vertex="1">
           <mxGeometry x="190" y="70" width="810" height="310" as="geometry" />
         </mxCell>
         <mxCell id="gd8ltcAckLXCvGkbboQW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;fontSize=11;labelBackgroundColor=default;fillColor=#0774C2;dashed=1;strokeColor=#005700;fontColor=#ffffff;" parent="gd8ltcAckLXCvGkbboQW-1" vertex="1">
