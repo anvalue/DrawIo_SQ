@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T03:42:36.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="IEDx9zjofjzR6u9hHBeb" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="2">
   <diagram name="第 1 页" id="OxpAVUQstTyfO5xzEEih">
     <mxGraphModel dx="1588" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,32 @@
         </mxCell>
         <mxCell id="ynMyA59LQ0QFr9QhABbU-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sqzNjO5SqX2Q5HfegudS" name="第 2 页">
+    <mxGraphModel dx="794" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="450" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-1" value="主控&lt;br&gt;STM32F407VGT6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-2" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-4" value="接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-5" value="4GCAT1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BLM2tfQAKpvCitbo9I7q-6" value="CC2530" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
