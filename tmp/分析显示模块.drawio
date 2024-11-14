@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.8.6">
   <diagram name="第 1 页" id="brEmzPkUTvlTsnMzLAOs">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="DRtAeos1hSPKdQ_mvPpc-1" target="DRtAeos1hSPKdQ_mvPpc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="DRtAeos1hSPKdQ_mvPpc-1" target="DRtAeos1hSPKdQ_mvPpc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-1" value="分析显示模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="DRtAeos1hSPKdQ_mvPpc-4" target="DRtAeos1hSPKdQ_mvPpc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="DRtAeos1hSPKdQ_mvPpc-4" target="DRtAeos1hSPKdQ_mvPpc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-4" value="&lt;div&gt;数据显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="DRtAeos1hSPKdQ_mvPpc-6" target="DRtAeos1hSPKdQ_mvPpc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-6" value="&lt;div&gt;图形显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-8" value="&lt;div&gt;农机轨迹&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-11" value="导航位姿" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DRtAeos1hSPKdQ_mvPpc-12" value="产量监测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
